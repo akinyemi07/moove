@@ -1,8 +1,21 @@
+/****************************************************************************************************
+* Name: Akinyemi Sodiq Adeyinka
+* project : Cloning moove - final capstone project
+* Scope : Html and Css 
+* Date : 21st april 2025
+****************************************************************************************************/
+/* reset and rebase */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+/* defautl body styles */
+body{
+    font-family: "Nunito Sans", sans-serif;
+    min-height: 100vh;
+}
+ /* navigation bar */
 .navBar {
     display: flex;
     justify-content: space-between;
